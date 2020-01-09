@@ -1,5 +1,6 @@
 ## From Terminal:
 .*`virtualenv [target_env_path]`
+
 .*`source [target_env_path]/bin/activate`
 .pip install --upgrade setuptools pip wheel
 .pip install rekall-agent rekall```
